@@ -1,0 +1,17 @@
+{
+  "name": "newchatroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "jquery.js": "0.0.2-security",
+    "socket.io": "^2.2.0"
+  }
+}
